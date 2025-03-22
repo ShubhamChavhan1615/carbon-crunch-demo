@@ -15,11 +15,11 @@ const slides: SlideImage[] = [
     alt: "Carbon footprint tracking dashboard"
   },
   {
-    url: "https://images.unsplash.com/photo-1623050803570-2b2fc66aa150?auto=format&fit=crop&q=80&w=800&h=400",
+    url: "https://plus.unsplash.com/premium_photo-1664297543985-a0cef55975fd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmVzaW9uYWx8ZW58MHx8MHx8fDA%3D",
     alt: "Carbon reduction analytics"
   },
   {
-    url: "https://images.unsplash.com/photo-1497435979456-58dee7b40230?auto=format&fit=crop&q=80&w=800&h=400",
+    url: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzaW9uYWx8ZW58MHx8MHx8fDA%3D",
     alt: "Sustainable living tips"
   }
 ];
